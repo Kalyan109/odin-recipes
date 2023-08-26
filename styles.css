@@ -1,26 +1,21 @@
 h1 {
-    color: rgb(125, 155, 238);
-    background-color: rgb(54, 54, 54);
+    color: #0a1612;
+    
 }
 
 *{
-    background-color: black;
+    background-color: #dcc7aa;
 }
 
 button{
-    background-color: yellow;
-    color: red;
+    background-color: #6b7a8f;
+    color: white;
 }
 
 img{
     height: auto;
-    width: auto;
+    width: 600px;
 }
-
-ul{
-    color: yellow;
-}
-
-li {
-    color: yellow;
-}
+ ul{
+    color: #f7882f;
+ }
