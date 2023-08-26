@@ -15,7 +15,7 @@ button{
 
 img{
     height: auto;
-    width: auto;
+    max-width: 100%;
 }
  ul{
     color: #f7882f;
