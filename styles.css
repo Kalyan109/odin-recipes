@@ -5,6 +5,7 @@ h1 {
 
 *{
     background-color: #dcc7aa;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 button{
@@ -14,8 +15,13 @@ button{
 
 img{
     height: auto;
-    width: 600px;
+    width: auto;
 }
  ul{
     color: #f7882f;
+ }
+
+ .nm {
+    font-weight: 300;
+    font-family: 'Courier New', Courier, monospace;
  }
